@@ -1,0 +1,28 @@
+/* Fill CSS here */
+
+body>h1{
+    text-align: center;
+    color: blue;
+}
+
+#button{
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+    border-radius: 30px;
+    padding: 5px 50px 5px 50px;
+    margin-top: 10px;
+}
+table{
+    background-color: blue;
+    color: white;
+
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+}
+
+/* form{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+} */
